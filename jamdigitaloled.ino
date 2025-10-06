@@ -7,8 +7,8 @@
 #include <EEPROM.h>
 
 // KOnfigurasi Wifi 
-const char* ssid = "ancaman";
-const char* password = "Akudewewani"; 
+const char* ssid = "--------";
+const char* password = "-------"; 
 
 // Input dan output pin
 const int buzzer = D8;
